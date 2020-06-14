@@ -19,3 +19,9 @@ separately.
 Bear in mind that you will be using random number generators and that, to get a representative
 performance and results that are statistically significant, you will need to run each experiment several
 times.
+
+How to Run:
+  1) Clone the project.
+  2) Run command "pipenv install"
+  3) Run command "pipenv shell"
+  4) Run command "python main.py"
